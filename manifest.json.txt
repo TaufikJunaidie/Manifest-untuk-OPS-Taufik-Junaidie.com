@@ -1,0 +1,38 @@
+{
+  "name": "OPS Taufik Junaidie",
+  "short_name": "OPS TJ",
+  "start_url": "www.ops.taufikjunaidie.com",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog yang membahas seputar kerjaan Operato Sekolah",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s48/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s72/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s96/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s144/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s168/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s192/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "https://1.bp.blogspot.com/-R7SHN0AwMo4/XpBtKoBATeI/AAAAAAAAFt8/_FQpXzNHH908yJSOXVfWmGrtowrJwa7UgCLcBGAsYHQ/s512/logo%2Buntuk%2Bjson%2B512%2Bx%2B512%2BPNG.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
